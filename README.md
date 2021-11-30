@@ -8,7 +8,9 @@
 I am Sabari Nathan 😃. I am from Chennai, Tamilnadu and currently doing my B.Tech in SRM University 🏫.
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&hide=["issues"]&show_icons=true)
+![Sabarinathan's github stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&hide=["issues"]&show_icons=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07)
 <!--
