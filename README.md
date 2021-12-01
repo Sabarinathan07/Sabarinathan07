@@ -12,6 +12,9 @@ I am Sabari Nathan 😃. I am from Chennai, Tamilnadu and currently doing my B.T
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact)](https://github.com/sabarinathan07/github-readme-stats)
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07)
 <!--
 **Sabarinathan07/Sabarinathan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
