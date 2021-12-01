@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, &nbsp; 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! &nbsp; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 
@@ -14,7 +14,9 @@ Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm Univ
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 - ✨ My abundant energy and boundless enthusiasm fuels me in the pursuit of many interests, hobbies, areas of study and artistic endeavors.
 
-### My Portfolio : sabarinathan07.github.io
+View my Portfolio website [Here](sabarinathan07.github.io)
+
+---
 
 
 <!-- 
