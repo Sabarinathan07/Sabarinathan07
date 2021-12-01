@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@im__Sabari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/im__Sabari)](https://twitter.com/im__Sabari/) [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabari-nathan-b15514172/)](https://www.linkedin.com/in/sabari-nathan-b15514172/) 
 [![Gmail Badge](https://img.shields.io/badge/-rs.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rs.sabarinathan02@gmail.com)](mailto:rs.sabarinathan02@gmail.com)
 
-Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm University. I am a full stack developer. I learned ReactJS, Android Studio, Data Structure using java and more.
+Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm University. I am a full stack developer. I am learning ReactJS, Android Studio, Data Structure using java and more.
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
-- 🌱 I’m currently learning ReactJS, JAVA, Android Development.
+
 
 <!-- 
 ![Sabarinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true)
