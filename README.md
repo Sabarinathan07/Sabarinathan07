@@ -1,12 +1,20 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@im__Sabari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/im__Sabari)](https://twitter.com/im__Sabari/) [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabari-nathan-b15514172/)](https://www.linkedin.com/in/sabari-nathan-b15514172/) 
+
+[![Twitter Badge](https://img.shields.io/badge/-@im__Sabari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/im__Sabari)](https://twitter.com/im__Sabari/)
+[![Instagram Badge](https://img.shields.io/badge/-sabari__nathan07-D43164?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sabari_nathan07/)](https://www.instagram.com/sabari_nathan07/)
+ [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabari-nathan-b15514172/)](https://www.linkedin.com/in/sabari-nathan-b15514172/) 
 [![Gmail Badge](https://img.shields.io/badge/-rs.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rs.sabarinathan02@gmail.com)](mailto:rs.sabarinathan02@gmail.com)
 
-Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm University. I am a full stack developer. I am learning ReactJS, Android Studio, Data Structure using java and more.
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm University. I am a full stack developer. I am currently learning ReactJS, Android Studio, Data Structure using java and more.
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+- ✨ My abundant energy and boundless enthusiasm fuels me in the pursuit of many interests, hobbies, areas of study and artistic endeavors.
+
+### My Portfolio : sabarinathan07.github.io
 
 
 <!-- 
@@ -23,11 +31,6 @@ Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm Univ
 &nbsp; &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark" width="50%"/>
 </p>
-
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p> -->
-
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
 
