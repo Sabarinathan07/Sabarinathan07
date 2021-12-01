@@ -8,11 +8,18 @@
 I am Sabari Nathan 😃. I am from Chennai, Tamilnadu and currently doing my B.Tech in SRM University 🏫.
 
 
-![Sabarinathan's github stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&hide=["issues"]&show_icons=true)
+![Sabarinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07&theme=dark)
+
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p> -->
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07)
