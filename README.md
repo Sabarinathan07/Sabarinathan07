@@ -9,19 +9,27 @@ Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm Univ
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 - 🌱 I’m currently learning ReactJS, JAVA, Android Development.
 
-
+<!-- 
 ![Sabarinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=dark)
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark) -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true"/></p>
+
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=dark" width="42%"/>
+&nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark" width="50%"/>
+</p>
 
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&" alt="sabarinathan07"/></p> -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
 
 
 
