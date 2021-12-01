@@ -14,7 +14,7 @@ Hi, I'm Sabari. I'm a multi talented human pursuing my B.Tech degree at Srm Univ
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 - ✨ My abundant energy and boundless enthusiasm fuels me in the pursuit of many interests, hobbies, areas of study and artistic endeavors.
 
-View my Portfolio website [Here](sabarinathan07.github.io)
+View my Portfolio website [Here](https://sabarinathan07.github.io/)
 
 ---
 
