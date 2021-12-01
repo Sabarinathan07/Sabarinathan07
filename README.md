@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@im__Sabari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/im__Sabari)](https://twitter.com/im__Sabari/)
 [![Instagram Badge](https://img.shields.io/badge/-sabari__nathan07-D43164?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sabari_nathan07/)](https://www.instagram.com/sabari_nathan07/)
  [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabari-nathan-b15514172/)](https://www.linkedin.com/in/sabari-nathan-b15514172/) 
-[![Gmail Badge](https://img.shields.io/badge/-rs.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rs.sabarinathan02@gmail.com)](mailto:rs.sabarinathan02@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rs.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.sabarinathan02@gmail.com)](mailto:r.sabarinathan02@gmail.com)
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
