@@ -19,8 +19,7 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 ---
 
 
-<!-- 
-![Sabarinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true)
+<!--   ![Sabarinathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=dark)
 
