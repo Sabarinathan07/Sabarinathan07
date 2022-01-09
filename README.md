@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/sabari__nathan07-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sabari_nathan07/)
  [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabari-nathan-b15514172/)](https://www.linkedin.com/in/sabari-nathan-b15514172/) 
 [![Gmail Badge](https://img.shields.io/badge/-r.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.sabarinathan02@gmail.com)](mailto:r.sabarinathan02@gmail.com)
+[![DevPost Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Devpost&logoColor=white&link=https://devpost.com/Sabarinathan07)](https://devpost.com/Sabarinathan07) 
 
 
 <img align='right' src='https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Git.gif?raw=true' width='200"'>
