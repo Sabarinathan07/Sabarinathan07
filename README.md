@@ -26,12 +26,12 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=github_dark&show_icons=true"/></p>
 
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=highcontrast" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=github_dark" width="42%"/>
 &nbsp; &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=github_dark" width="50%"/>
 </p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
