@@ -31,7 +31,7 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=github_dark" width="42%"/>
 &nbsp; &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=highcontast" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=highcontrast"width="50%"/>
 </p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
