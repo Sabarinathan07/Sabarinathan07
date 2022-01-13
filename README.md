@@ -29,7 +29,7 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=dark&show_icons=true"/></p>
 
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=dark" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=highcontrast" width="42%"/>
 &nbsp; &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=dark" width="50%"/>
 </p>
