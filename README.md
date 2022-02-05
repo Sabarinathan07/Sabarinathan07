@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@im__Sabari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sabari_nathan07)](https://twitter.com/sabari_nathan07)
+[![Twitter Badge](https://img.shields.io/badge/-@sabari_nathan07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sabari_nathan07)](https://twitter.com/sabari_nathan07)
 [![Instagram Badge](https://img.shields.io/badge/sabari__nathan07-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sabari_nathan07/)
  [![Linkedin Badge](https://img.shields.io/badge/-SabariNathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sabarinathan07/)](https://www.linkedin.com/in/Sabarinathan07/) 
 [![Gmail Badge](https://img.shields.io/badge/-r.sabarinathan02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.sabarinathan02@gmail.com)](mailto:r.sabarinathan02@gmail.com)
