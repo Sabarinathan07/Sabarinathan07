@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 &nbsp; 𝐭𝐡𝐞𝐫𝐞, &nbsp; 𝐟𝐞𝐥𝐥𝐨𝐰 &nbsp;<𝚌𝚘𝚍𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Hi.gif?raw=true" width="30px"></h2>
+<!-- <h2> 𝐇𝐞𝐥𝐥𝐨 &nbsp; 𝐭𝐡𝐞𝐫𝐞, &nbsp; 𝐟𝐞𝐥𝐥𝐨𝐰 &nbsp;<𝚌𝚘𝚍𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Hi.gif?raw=true" width="20px"></h2> -->
 
 
 
