@@ -37,8 +37,10 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathan07&label=Profile%20Views&color=0e75b6&style=flat" alt="sabarinathan07" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07) -->
+
 <!--
 **Sabarinathan07/Sabarinathan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
