@@ -29,14 +29,14 @@ View my Portfolio website [Here](https://sabarinathan07.github.io/)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=github_dark&show_icons=true"/></p>
 
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=github_dark" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=github_dark" width="36%"/>
 &nbsp; &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=highcontrast"width="50%"/>
 </p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
 
-
+<!-- qweqwwqwewqqe -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathan07&label=Profile%20Views&color=0e75b6&style=flat" alt="sabarinathan07" /> </p>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabarinathan07.sabarinathan07) -->
