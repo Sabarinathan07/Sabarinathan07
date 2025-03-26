@@ -19,7 +19,7 @@ View my Portfolio website [Here](https://sabari.dev/)
 
 <div align="center">
    <img
-    src="https://git-hub-streak-stats.vercel.app?user=sabarinathan07&theme=hacker&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=500"
+    src="https://git-hub-streak-stats.vercel.app?user=sabarinathan07&theme=github_dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=500"
     alt="GitHub Streak"
     height="200px" />
   </div>
@@ -27,10 +27,10 @@ View my Portfolio website [Here](https://sabari.dev/)
   <div align="center"
    style="height: '180px'; display: flex; align-items: center; margin: '20px 0px'; justify-content: center; ">
    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&layout=compact&border_radius=20"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&theme=github_dark&show_icons=true&hide_border=false&layout=compact&border_radius=20"
     height="180px" />
    <img
-    src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&count_private=true&border_radius=20&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=github_dark&show_icons=true&hide_border=false&count_private=true&border_radius=20&rank_icon=github"
     height="180px" />
   </div>
 
