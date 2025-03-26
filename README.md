@@ -21,17 +21,17 @@ View my Portfolio website [Here](https://sabari.dev/)
    <img
     src="https://git-hub-streak-stats.vercel.app?user=sabarinathan07&theme=hacker&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=500"
     alt="GitHub Streak"
-    height="160px" />
+    height="200px" />
   </div>
 
-  <div
-   style="height: 160px; justify-content: space-around; display: flex; align-items: center; margin: 20px 0px;">
+  <div align="center"
+   style="height: '180px'; display: flex; align-items: center; margin: '20px 0px'; justify-content: center; ">
    <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&layout=compact&border_radius=20"
-    height="100%" />
+    height="180px" />
    <img
     src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&count_private=true&border_radius=20"
-    height="100%" />
+    height="180px" />
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathan07&label=Profile%20Views&color=0e75b6&style=flat" alt="sabarinathan07" /> </p>
