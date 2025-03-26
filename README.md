@@ -30,7 +30,7 @@ View my Portfolio website [Here](https://sabari.dev/)
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&layout=compact&border_radius=20"
     height="180px" />
    <img
-    src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&count_private=true&border_radius=20"
+    src="https://github-readme-stats.vercel.app/api?username=sabarinathan07&theme=blue-green&show_icons=true&hide_border=false&count_private=true&border_radius=20&rank_icon=github"
     height="180px" />
   </div>
 
