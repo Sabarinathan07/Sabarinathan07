@@ -32,7 +32,8 @@ View my Portfolio website [Here](https://sabari.dev/)
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathan07&layout=compact&theme=github_dark" width="36%"/>
 &nbsp; &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=highcontrast"width="50%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarinathan07&theme=highcontrast"width="50%"/> -->
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sabarinathan07&theme=one_dark_pro&date_format=M%20j%5B%2C%20Y%5D" width="50% alt="GitHub Streak" /></a>
 </p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathan07&repo=blog-mern&theme=dark)](https://github.com/Sabarinathan07/BLOG-MERN) -->
