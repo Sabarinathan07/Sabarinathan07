@@ -8,7 +8,7 @@
 
 <img align='right' src='https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Git.gif?raw=true' width='200"'>
 
-Hello <img src="https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Hi.gif?raw=true" width="17px"> I'm Sabarinathan R. I'm a Software Developer Engineer at EventHQ. I'm currently exploring technologies in node.js, golang, rest API and more. I love to solve Leetcode problems using java.
+Hello <img src="https://github.com/Sabarinathan07/Sabarinathan07/blob/main/assets/Hi.gif?raw=true" width="17px"> I'm Sabarinathan R. I'm a Software Developer Engineer at M2P. I'm currently exploring technologies in node.js, golang, rest API and more. I love to solve Leetcode problems using java.
 
 - 🔭 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 - ✨ My abundant energy and boundless enthusiasm fuels me in the pursuit of many interests, hobbies, areas of study and artistic endeavors.
